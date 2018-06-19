@@ -21,6 +21,7 @@ header = 'Movie Name,' + 'Release Date,'+'1st Day,'+ '1st Weekend,'+ '1st Week,'
 children = list(rows.children)
 #children = children[32:]
 print(len(children))
+#This may be the case of anticipation
 '''for x in range(0, len(children)):
     i = children[x]
     print(i.get_text())
